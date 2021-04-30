@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyber-President&count_private=true&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-President&layout=compact)](https://github.com/Cyber-President/github-readme-stats)
