@@ -15,8 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Cyber-President)
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyber-President&count_private=true&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-President&layout=compact&theme=tokyonight)
+<div>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Cyber-President&column=8&theme=gruvbox&no-frame=true"/>
+</div>
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Cyber-President&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-President&layout=compact&theme=tokyonight" />
+</div>
