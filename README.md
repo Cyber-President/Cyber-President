@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 ---
 
 <div>
-  <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=Cyber-President&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=Cyber-President&include_all_commits=true&theme=tokyonight&count_private=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyber-President&layout=compact&theme=tokyonight&count_private=true" />
 </div>
